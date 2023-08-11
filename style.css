@@ -1,0 +1,41 @@
+button{
+    width: 60px;
+    height: 80px;
+    border: 2px solid green;
+    margin-top: 100px;
+}
+#calculadora{
+    width: 5px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+#display{
+    width: 428px;
+    height: 50px;
+    border: 50px;
+}
+#soma{
+    position: absolute;
+    left: 550px;
+    bottom: 220px;
+}
+#divisao{
+    position: absolute;
+    left: 550px;
+    bottom: 400px;
+}
+#multiplicacao{
+    position: absolute;
+    left: 550px;
+    bottom: 310px;
+}
+#subtracao{
+    position: absolute;
+    left: 550px;
+    bottom: 130px;
+}
+#igual{
+    position: absolute;
+    left: 550px;
+    bottom: 40px;
+}
