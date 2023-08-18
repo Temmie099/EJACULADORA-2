@@ -39,3 +39,74 @@ button{
     left: 550px;
     bottom: 40px;
 }
+#um{
+    position: absolute;
+    left: 340px;
+    bottom: 130px;
+}
+#dois{
+    position: absolute;
+    left: 410px;
+    bottom: 130px;
+}
+#tres{
+    position: absolute;
+    left: 480px;
+    bottom: 130px;
+}
+#quatro{
+    position: absolute;
+    left: 340px;
+    bottom: 220px;
+}
+#cinco{
+    position: absolute;
+    left: 410px;
+    bottom: 220px;
+}
+#seis{
+    position: absolute;
+    left: 480px;
+    bottom: 220px;
+}
+#sete{
+    position: absolute;
+    left: 340px;
+    bottom: 310px;
+}
+#oito{
+    position: absolute;
+    left: 410px;
+    bottom: 310px;
+}
+#nove{
+    position: absolute;
+    left: 480px;
+    bottom: 310px;
+}
+#C{
+    position: absolute;
+    left: 340px;
+    bottom: 40px;
+}
+#virgula{
+    position: absolute;
+    left: 480px;
+    bottom: 40px;
+}
+#zero{
+    position: absolute;
+    left: 410px;
+    bottom: 40px;
+}
+#displaydiv{
+    margin-left: 100px;
+    background-color : green;
+    left: 6px;
+    border-color: black;
+    height: 70px;
+    width: 100px;
+}
+#input{
+    border-color: black;
+}
